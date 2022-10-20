@@ -3,7 +3,7 @@ p {
     font-family: Verdana, Dejavu Sans, sans-serif;
 }
 
-#second {
+.second {
     color: blue;
     font-size: 36px;
 }
